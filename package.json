@@ -1,7 +1,7 @@
 {
   "name": "router-test",
   "version": "0.1.0",
-  "homepage": "https://gorayan.github.io/react-router-test/",
+  "homepage": "https://github.com/Gorayan/react-router-test/tree/gh-pages/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
