@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-router-test/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/react-router-test/static/js/main.32d79f2e.chunk.js",
-    "main.js.map": "/react-router-test/static/js/main.32d79f2e.chunk.js.map",
-    "runtime-main.js": "/react-router-test/static/js/runtime-main.1f1758d6.js",
-    "runtime-main.js.map": "/react-router-test/static/js/runtime-main.1f1758d6.js.map",
-    "static/js/2.9098409d.chunk.js": "/react-router-test/static/js/2.9098409d.chunk.js",
-    "static/js/2.9098409d.chunk.js.map": "/react-router-test/static/js/2.9098409d.chunk.js.map",
-    "static/js/3.9bfd8aee.chunk.js": "/react-router-test/static/js/3.9bfd8aee.chunk.js",
-    "static/js/3.9bfd8aee.chunk.js.map": "/react-router-test/static/js/3.9bfd8aee.chunk.js.map",
-    "index.html": "/react-router-test/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/react-router-test/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.9098409d.chunk.js.LICENSE.txt": "/react-router-test/static/js/2.9098409d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/react-router-test/static/media/logo.6ce24c58.svg"
+    "main.css": "/Gorayan/react-router-test/tree/gh-pages/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Gorayan/react-router-test/tree/gh-pages/static/js/main.32d79f2e.chunk.js",
+    "main.js.map": "/Gorayan/react-router-test/tree/gh-pages/static/js/main.32d79f2e.chunk.js.map",
+    "runtime-main.js": "/Gorayan/react-router-test/tree/gh-pages/static/js/runtime-main.8131560c.js",
+    "runtime-main.js.map": "/Gorayan/react-router-test/tree/gh-pages/static/js/runtime-main.8131560c.js.map",
+    "static/js/2.9098409d.chunk.js": "/Gorayan/react-router-test/tree/gh-pages/static/js/2.9098409d.chunk.js",
+    "static/js/2.9098409d.chunk.js.map": "/Gorayan/react-router-test/tree/gh-pages/static/js/2.9098409d.chunk.js.map",
+    "static/js/3.9bfd8aee.chunk.js": "/Gorayan/react-router-test/tree/gh-pages/static/js/3.9bfd8aee.chunk.js",
+    "static/js/3.9bfd8aee.chunk.js.map": "/Gorayan/react-router-test/tree/gh-pages/static/js/3.9bfd8aee.chunk.js.map",
+    "index.html": "/Gorayan/react-router-test/tree/gh-pages/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Gorayan/react-router-test/tree/gh-pages/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9098409d.chunk.js.LICENSE.txt": "/Gorayan/react-router-test/tree/gh-pages/static/js/2.9098409d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Gorayan/react-router-test/tree/gh-pages/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f1758d6.js",
+    "static/js/runtime-main.8131560c.js",
     "static/js/2.9098409d.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.32d79f2e.chunk.js"
