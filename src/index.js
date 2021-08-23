@@ -7,7 +7,7 @@ import {BrowserRouter, Route, Switch} from "react-router-dom";
 
 ReactDOM.render(
     <React.StrictMode>
-        <BrowserRouter>
+        <BrowserRouter basename="/react-router-test">
             <Route exact path="/">
                 <App />
             </Route>
